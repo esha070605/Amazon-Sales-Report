@@ -70,16 +70,6 @@ The dashboard helps identify:
 
 The interactive Power BI dashboard provides a consolidated view of Amazon's sales and profitability performance.
 
-### Dashboard Preview
-
-Add your dashboard screenshot here.
-
-![Amazon Sales Dashboard](dashboard_preview.png)
-
-## Dashboard PDF
-
-[View the complete Amazon Sales Dashboard](Amazon_Sales_Dashboard.pdf)
-
 ## Project Outcome
 
 Developed an interactive Power BI dashboard that transforms 51,290 Amazon sales records into meaningful KPIs, visualizations, and business insights for evaluating sales and profitability performance.
